@@ -2,12 +2,12 @@ const todoArr = [
   {
     description: 'Morning session meeting',
     completed: true,
-    index: 0,
+    index: 3,
   },
   {
     description: 'Coding practice',
     completed: false,
-    index: 1,
+    index: 7,
   },
   {
     description: 'Exercise',

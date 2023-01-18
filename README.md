@@ -28,7 +28,7 @@
 
 > Describe your project in 1 or 2 sentences.
 
-**[To do list]** where ES6 modules are utilized to make the code more orderly. The basic fuctionality of the awesome books project is to add and remove books from storage.
+**[To do list]** where ES6 modules and the webpack bundle are used to make the code run more effectively. The To do list project's core functionality is to assist a user in organizing and planning his or her day's tasks. When a task is finished, the user can mark it as completed.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS and Javascript</a>
 

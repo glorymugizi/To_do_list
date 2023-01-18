@@ -24,7 +24,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [To do list-Microverse] <a name=""></a>
+# 📖 [To do list- Microverse project] <a name=""></a>
 
 > Describe your project in 1 or 2 sentences.
 
@@ -49,7 +49,7 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 > Create a local directory where you can clone the repository
-> Run git clone on the terminal along with git@github.com:glorymugizi/awesome_books.git
+> Run git clone on the terminal along with git@github.com:glorymugizi/to_do_list.git
 
 ### Prerequisites
 
